@@ -221,6 +221,31 @@ body {
 
     cursor: pointer;
 }
+
+.input-group {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-save {
+    width: 40%;
+    text-decoration: none;
+    padding: 25px;
+    background-color: rgba(45, 156, 219, 1);
+    border: 3px;
+    border-radius: 10px;
+}
+
+.button-cancel {
+    width: 40%;
+    text-decoration: none;
+    padding: 25px;
+    background-color: var(--white);
+    border: 3px solid #D7D4D4;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
 /* INFOS */
 
 #imagem2{
@@ -401,6 +426,16 @@ body {
 .icone8text{
     display: flex;
     padding: 30px;
+}
+
+.infosabout {
+    position: relative;
+    width: 95%;
+    height: 500px;
+    left: 44px;
+    top: 20px;
+    background: #3EC6FF;
+    margin-bottom: 5%;
 }
 
 /* FOOTER */
