@@ -7,6 +7,6 @@ Projeto Feito apenas para fazer a hospedagem no GitHub pages, onde se pode coloc
 Usado para Apresentar o projeto como Prova no curso PROGRAMADOR WEB - SENAC
 ***
 
-[Site do projeto] ("https://marcosvictor0.github.io/PROJETOSENAC2/")
+Link que levará você para o site do projeto ---> <https://marcosvictor0.github.io/PROJETOSENAC2/>
 
 <hr>
